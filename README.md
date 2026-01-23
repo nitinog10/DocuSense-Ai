@@ -4,7 +4,6 @@
 
 Transform complex codebases into interactive, audio-visual walkthroughs. Instead of reading 500 lines of code, press "Play" and watch as an AI "Senior Engineer" narrates the logic while the code automatically scrolls and highlights in real-time.
 
-![DocuVerse Banner](https://via.placeholder.com/1200x400/0d1117/58a6ff?text=DocuVerse+-+Code+Walkthroughs+That+Speak)
 
 ## ✨ Core Innovation: Auto-Cast
 

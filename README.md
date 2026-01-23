@@ -1,4 +1,4 @@
-# DocuVerse 🎬
+# DocuVerse Ai 🎬
 
 **The World's First Generative Media Documentation Engine**
 

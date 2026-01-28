@@ -252,8 +252,4 @@ DocuVerse is designed with a **dark, modern IDE aesthetic**:
 - [ ] CI/CD integration (auto-update docs on PR)
 - [ ] Interactive Q&A with codebase (RAG chatbot)
 
-## 📄 License
-
-MIT License - see LICENSE file for details.
-
 
